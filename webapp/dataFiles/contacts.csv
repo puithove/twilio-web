@@ -1,0 +1,9 @@
+distroID,name,number
+distro1,bob,+11234567890
+distro2,fred fred,+19999999999
+distro2,george,+19999999998
+test-error,This phone number is invalid.,15005550001
+test-error,Twilio cannot route to this number.,15005550002
+test-error,International permissions.,15005550003
+test-error,This number is blacklisted for your account.,15005550004
+test-error,This number is incapable of receiving SMS messages.,15005550009
